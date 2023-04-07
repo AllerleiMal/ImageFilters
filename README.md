@@ -14,13 +14,13 @@ There is a list of required python packages for this application:
 
 To run application use command:
 ```
-    python main.py
+python main.py
 ```
 
 # Build executable
 At first download _pyinstaller_ package:
 ```
-    pip install pyinstaller
+pip install pyinstaller
 ```
  To create executable file use next command:
 ```
